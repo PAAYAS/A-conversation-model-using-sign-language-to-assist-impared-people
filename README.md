@@ -8,5 +8,5 @@
 #### 4. To convert sign to speech: python signToSpeech.py
 
 ### Note:
-##### U might need to install ffmpeg to get the output audio file.
+#### U might need to install ffmpeg [https://ffmpeg.org/download.html#build-windows] to get the output audio file.
 
